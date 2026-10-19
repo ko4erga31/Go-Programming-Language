@@ -7,7 +7,9 @@
  * Exercise: 2.5
  *
  * Task:
- *   ....
+ *   Use the expression x&(x-1), which clears the rightmost non-zero bit,
+ *   to write a faster version of PopCount. Compare the performance of
+ *   the three versions.
  *
  * Run:
  *   go test -bench=.

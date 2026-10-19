@@ -7,7 +7,8 @@
  * Exercise: 2.4
  *
  * Task:
- *   ....
+ *   Write a version of PopCount that counts bits by shifting its argument
+ *   through 64-bit positions. Compare the performance of the two versions.
  *
  * Run:
  *   go test -bench=.
